@@ -1,3 +1,3 @@
 # jumpman-adobe-flash-game
 
-   Simple project college.
+   Simple project for college.
